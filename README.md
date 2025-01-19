@@ -6,6 +6,8 @@ This guide will help you set up a custom VSCode theme using the provided `custom
 
 - Visual Studio Code installed on your machine.
 - Basic knowledge of how to navigate and edit files in VSCode.
+- Download the extension "Custom CSS and JS Loader" by be5invis
+- Download the extension "Animations" by brandonkirbyson
 
 ![Command Palette](./img/commandPallette.png)
 
@@ -17,10 +19,9 @@ This guide will help you set up a custom VSCode theme using the provided `custom
 
 1. **Locate the Custom Files**
 
-  Ensure you have the following files in your project directory:
-  - `custom_vscode.css`
-  - `vscode_Script`
-  - `settings.json`
+  - `custom_vscode.css`.
+  - `vscode_Script`.
+  -  clone the content `settings.json` in vscode settings file
 
 2. **Modify VSCode Settings**
 
