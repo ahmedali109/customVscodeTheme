@@ -72,4 +72,4 @@ To ensure that VSCode correctly loads your custom CSS and JavaScript files, you 
 
 By adding these settings, you ensure that VSCode will import and apply your custom styles and scripts every time it starts.
 
-Make sure to restart VSCode after making these changes for them to take effect.
+Make sure to restart VSCode after making these changes for them to take effect.👾
